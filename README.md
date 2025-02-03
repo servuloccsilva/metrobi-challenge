@@ -22,10 +22,10 @@ To test a challenge, you need to **clone this repository** and navigate to the s
    ```bash
    git clone https://github.com/servuloccsilva/metrobi-challenge
    cd metrobi-challenge
-2. Navigate to the challenge folder you want to test
+2. Navigate to the challenge folder you want to test:
     ```bash
    cd question-x
-3. Run the script using Node.js
+3. Run the script using Node.js:
    ```bash
    node script.js
 ### 🔹 Special Instructions for Challenges 3 & 6 
