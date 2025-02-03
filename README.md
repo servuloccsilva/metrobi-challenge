@@ -2,7 +2,7 @@
 
 Welcome to the **Metrobi Interview Challenge** repository! 🚀  
 
-This repository contains seven coding challenges designed to assess problem-solving skills and proficiency in JavaScript and React. Follow the instructions below to set up and test each challenge.  
+This repository contains the solutions for seven coding challenges designed to assess problem-solving skills and proficiency in JavaScript and React. Follow the instructions below to set up and test each challenge.  
 
 ---
 
